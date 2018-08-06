@@ -1,11 +1,14 @@
 # tensorflow
 Creator:Hou YunJiang
+
 创建者：侯云江
+
 E-Mail:faceany@hotmail.com
+
 Description:
-   (1)The project is TensorFlow installation package for python 2.7(.15) on windows(7) x64.
-   (2)The package tensorflow_1.9.0_cpu_windows_x64 is build by visual studio 2015 update 3.The source code is from https://github.com/tensorflow/tensorflow.
-   (3)The visual studio 2015 redistributable update 3 or others is in runtime.
+	(1)The project is TensorFlow installation package for python 2.7(.15) on windows(7) x64.
+	(2)The package tensorflow_1.9.0_cpu_windows_x64 is build by visual studio 2015 update 3.The source code is from https://github.com/tensorflow/tensorflow.
+	(3)The visual studio 2015 redistributable update 3 or others is in runtime.
 
 
 Installation:
